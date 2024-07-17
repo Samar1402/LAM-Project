@@ -58,11 +58,8 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* padding: 20px;
-  margin: 20px; */
 }
 label {
-  /* color: white; */
   font-size: 14px;
 }
 .login {
